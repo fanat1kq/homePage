@@ -37,7 +37,7 @@
 
 - :zap: В данный момент прохожу курс https://zhukovsd.github.io/java-backend-learning-course/#требуемые-знания-и-технологии
 
-- :mailbox: Как найти меня: [![Telegram Badge](https://img.shields.io/badge/fanat1kq-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Java_Developer_Vol)
+- :mailbox: Как найти меня: [![Telegram Badge](https://img.shields.io/badge/fanat1kq-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/fanat1kq)
 
 ---
 
